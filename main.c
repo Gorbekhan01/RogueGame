@@ -11,7 +11,7 @@ void new_user();
 void old_user();
 
 int main() {
-
+    mvprintw(1,1,"hi");
     start_color();
     setlocale(LC_ALL, "");
     putenv("LINES=45");
