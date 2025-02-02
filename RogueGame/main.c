@@ -10,7 +10,7 @@
 void move_deamon(int y, int x ){
     init_pair(1, COLOR_MAGENTA,COLOR_BLACK);
     attron(1);
-    mvprintw(y , x, "D");
+    mvprintw(y , x, "s");
     attroff(1);
 
 }

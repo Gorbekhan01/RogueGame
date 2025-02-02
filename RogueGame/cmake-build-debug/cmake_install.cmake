@@ -1,4 +1,4 @@
-# Install script for directory: /Users/gorbekhan/Documents/DON'T TOUCH/RogueGame
+# Install script for directory: /Users/gorbekhan/Downloads/RogueGame-2-3.1/RogueGame
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/Users/gorbekhan/Documents/DON'T TOUCH/RogueGame/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/Users/gorbekhan/Downloads/RogueGame-2-3.1/RogueGame/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
